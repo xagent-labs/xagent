@@ -1,0 +1,12 @@
+title: "XAgent (X-Agent) — AI Agent Builder, Runtime, Marketplace & Agentic Payments"
+description: "XAgent (X-Agent) by X-Agent Labs at xagt.ai — turn a plain-language idea into a working AI agent or AI-powered web app, then monetize it with agentic payments."
+url: "https://xagent-labs.github.io"
+baseurl: "/xagent"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+author: X-Agent Labs
+twitter:
+  username: XAgent_official
+  card: summary_large_image
+logo: https://xagt.ai/favicon.ico
